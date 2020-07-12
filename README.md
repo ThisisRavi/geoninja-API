@@ -7,4 +7,6 @@ GeoNinja displays data collected using U-block and Lidar on a maps powered by OS
     . venv/bin/activate
     pip install .
 
+    python run.py
+
 And you’re done!

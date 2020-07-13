@@ -1,5 +1,5 @@
 # GeoNinja-API
-GeoNinja displays data collected using U-block and Lidar on a maps powered by OSRM and Mapbox
+GeoNinja displays data collected using U-blox and Lidar on a maps powered by OSRM and Mapbox
 
 ### Run it
 
